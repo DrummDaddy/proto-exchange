@@ -1,4 +1,4 @@
-module proto-exchange
+module github.com/DrummDaddy/proto-exchange
 
 go 1.22.4
 
